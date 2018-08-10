@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="no_connection_info">No Internet connection</string>
+    <string name="no_data_info">Something went wrong. No data was received. Try refreshing.</string>
+    <string name="settings_title">Settings</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_question_key">q</string>
+    <string name="settings_question_label">Insert additional parameter:</string>
+    <string name="settings_order_title">Ordered by</string>
+    <string name="settings_order_key">order-by</string>
+    <string name="settings_question_default" />
+    <string name="settings_order_default">newest</string>
+    <string name="settings_section_key">section</string>
+    <string name="settings_section_title">Section</string>
+    <string name="settings_section_default">news</string>
+</resources>

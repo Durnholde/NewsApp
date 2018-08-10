@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="section">
+        <item>News</item>
+        <item>Society</item>
+        <item>Sport</item>
+        <item>Environment</item>
+        <item>Politics</item>
+    </string-array>
+    <string-array name="section_values">
+        <item>news</item>
+        <item>society</item>
+        <item>sport</item>
+        <item>environment</item>
+        <item>politics</item>
+    </string-array>
+    <string-array name="order_by">
+        <item>Newest</item>
+        <item>Oldest</item>
+        <item>Relevance</item>
+    </string-array>
+    <string-array name="order_by_values">
+        <item>newest</item>
+        <item>oldest</item>
+        <item>relevance</item>
+    </string-array>
+
+</resources>
